@@ -22,7 +22,6 @@ const Header = () => {
                 <div className="navigation-links">
                     <a href="#" data-text="HOME" id="home-link">INICIO</a>
                     <a href="#" data-text="ABOUT" id="about-link">ACERCA DE</a>
-                    <a href="#" data-text="BLOG" id="blog-link">BLOG</a>
                     <a href="#" data-text="PORTFOLIO" id="portfolio-link">PORTAFOLIO</a>
                     <a href="#" data-text="CONTACT" id="contact-link">CONTACTO</a>
                 </div>
