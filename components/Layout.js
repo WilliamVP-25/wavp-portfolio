@@ -8,7 +8,7 @@ const Layout = props => {
         <Fragment>
             <Head>
                 <title>Portafolio William Viteri</title>
-                <link rel="icon" href="/favicon.ico"/>
+                <link rel="icon" href="images/willy wonka logo.png"/>
                 <meta charSet="UTF-8"/>
                 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
                 <meta name="description" content="William Viteri Pinchao - Personal Portfolio Website"/>
