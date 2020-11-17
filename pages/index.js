@@ -12,17 +12,8 @@ export default function App() {
                  style={{backgroundImage: 'url(images/coding_2.jpg)', resizeMode: 'cover', backgroundSize: 'cover'}}>
                 <div id="particles"/>
                 <div className="social-media-links">
-                    <a target="_blank" rel="noopener noreferrer" href="#">
-                        <img src="images/instagram logo.png" className="social-media" alt="instagram-logo"/>
-                    </a>
-                    <a target="_blank" rel="noopener noreferrer" href="#">
-                        <img src="images/facebook logo.png" className="social-media" alt="facebook-logo"/>
-                    </a>
-                    <a target="_blank" rel="noopener noreferrer" href="#">
+                    <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/william-vp-a6785b181/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BjLHx5W%2BgSWSCgq3OuUkF9w%3D%3D">
                         <img src="images/linkedin logo.png" className="social-media" alt="linkedin-logo"/>
-                    </a>
-                    <a target="_blank" rel="noopener noreferrer" href="#">
-                        <img src="images/twitter logo.png" className="social-media" alt="twitter-logo"/>
                     </a>
                 </div>
                 <div className="header-content">
