@@ -28,7 +28,7 @@ const Header = () => {
             </div>
             <div id="navigation-bar">
                 <img src="images/willy wonka logo.png" alt="logo"/>
-                <div className="menubar">
+                <div className="menubar" style={{ border: "1px solid #eee;" }}>
                     <span className="first-span"/>
                     <span className="second-span"/>
                     <span className="third-span"/>
