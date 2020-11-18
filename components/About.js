@@ -20,9 +20,7 @@ const About = () => {
                                 Desarrollador web innovador, proactivo y con capacidad para desarrollar páginas y/o aplicaciones web elegantes y diseños de aplicaciones para clientes exigentes. Resolución de problemas de forma independiente. Organizado y con capacidad multitarea, con experiencia en programación de proyectos, mejora de diseños y verificación de código. Habilidades de HTML, CSS, Framework Laravel (PHP), Frontend y Backend en Javascript (MERN). Con voluntad de aprender y aportar mis habilidades a empresas de desarrollo web.
                             </span>
                             <div className="cv">
-                                <a href="#">
-                                    <button>Descargar <span className="colors">CV</span></button>
-                                </a>
+                                
                             </div>
                         </div>
                         <div className="about-img">
@@ -43,17 +41,7 @@ const About = () => {
                             </div>
                             <div className="service-description">
                                 <h2>Diseño Web</h2>
-                                <p>Desarrollo aplicaciones web a la vanguardia con las mejores prácticas.</p>
-                            </div>
-                        </div>
-                        <div className="service-two service wow">
-                            <div className="service-img">
-                                <img src="images/instagram.png" alt="service-two"/>
-                            </div>
-                            <div className="service-description">
-                                <h2>Social Media</h2>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod quibusdam
-                                    possimus</p>
+                                <p>Creo aplicaciones web con las tecnologiás actuales en desarrollo web.</p>
                             </div>
                         </div>
                         <div className="service-three service wow">
@@ -63,7 +51,7 @@ const About = () => {
                             <div className="service-description">
                                 <h2>Diseño Creativo</h2>
                                 <p>Me apasiono diseñando webs creativas que satisfagan a mis clientes y encanten a los
-                                    usuarios</p>
+                                    usuarios finales</p>
                             </div>
                         </div>
                     </div>
