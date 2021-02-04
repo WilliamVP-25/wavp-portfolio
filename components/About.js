@@ -69,7 +69,7 @@ const About = () => {
                                 </div>
                             </div>
                             <div className="html-prog wow prog">
-                                <div className="html-progress wow">90%</div>
+                                <div className="html-progress wow" style={{ width: '80%' }}>80%</div>
                             </div>
                         </div>
                         <div className="skill-html skill">
@@ -79,7 +79,7 @@ const About = () => {
                                 </div>
                             </div>
                             <div className="html-prog wow prog">
-                                <div className="js-progress wow" style={{ width: '90%' }}>90%</div>
+                                <div className="js-progress wow" style={{ width: '80%' }}>80%</div>
                             </div>
                         </div>
                         <div className="skill-html skill">
@@ -89,7 +89,7 @@ const About = () => {
                                 </div>
                             </div>
                             <div className="html-prog wow prog">
-                                <div className="adobe-progress wow" style={{ width: '90%' }}>90%</div>
+                                <div className="adobe-progress wow" style={{ width: '80%' }}>80%</div>
                             </div>
                         </div>
                         <div className="skill-html skill">
@@ -99,7 +99,7 @@ const About = () => {
                                 </div>
                             </div>
                             <div className="html-prog wow prog">
-                                <div className="php-progress wow" style={{ width: '85%' }}>85%</div>
+                                <div className="php-progress wow" style={{ width: '80%' }}>80%</div>
                             </div>
                         </div>
                         <div className="skill-html skill">
@@ -139,7 +139,7 @@ const About = () => {
                                 </div>
                             </div>
                             <div className="html-prog wow prog">
-                                <div className="jquery-progress wow" style={{ width: '70%' }}>70%</div>
+                                <div className="jquery-progress wow" style={{ width: '75%' }}>75%</div>
                             </div>
                         </div>
 
@@ -150,7 +150,7 @@ const About = () => {
                                 </div>
                             </div>
                             <div className="html-prog wow prog">
-                                <div className="jquery-progress wow" style={{ width: '20%' }}>20%</div>
+                                <div className="jquery-progress wow" style={{ width: '40%' }}>40%</div>
                             </div>
                         </div>
 
@@ -161,7 +161,7 @@ const About = () => {
                                 </div>
                             </div>
                             <div className="html-prog wow prog">
-                                <div className="jquery-progress wow" style={{ width: '50%' }}>50%</div>
+                                <div className="jquery-progress wow" style={{ width: '75%' }}>75%</div>
                             </div>
                         </div>
 
