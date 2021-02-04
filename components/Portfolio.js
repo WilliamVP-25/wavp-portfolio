@@ -55,15 +55,34 @@ const Portfolio = () => {
                         </div>
                         <div className="portfolio-text">
                             <h2>Learning Management System Laravel</h2>
-                            <p>Aplicación hecha con Framework PHP Laravel para admininstrar y tomar cursos online.</p>
+                            <p>Aplicación hecha con Framework PHP Laravel y algunos componentes con React.js para admininstrar y tomar cursos online.</p>
                             <div className="button">
-                                <a rel="noopener noreferrer" target="_blank" href="https://learning.encantapp.com/">
+                            {/*<a rel="noopener noreferrer" target="_blank" href="https://learning.encantapp.com/">
                                     <button><span className="index"> Ver Proyecto
                                     <i className="gg-arrow-right"/></span>
                                     </button>
-                                </a></div>
+                                </a>*/}
+                            </div>
                         </div>
                     </div>
+        
+                    <div className="portfolio portfolio-third">
+                        <div className="portfolio-image">
+                            <img src="images/hotel.png" alt="portfolio-third"/>
+                        </div>
+                        <div className="portfolio-text">
+                            <h2>Learning Management System Laravel</h2>
+                            <p>Página web sencilla hecha con Next.js haciendo uso de Dato CMS para guardar los datos.</p>
+                            <div className="button">
+                            <a rel="noopener noreferrer" target="_blank" href="https://landing-hotel-gatsby.netlify.app">
+                                    <button><span className="index"> Ver Proyecto
+                                    <i className="gg-arrow-right"/></span>
+                                    </button>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+        
 
                     <div className="portfolio portfolio-fourth">
                         <div className="portfolio-text">
