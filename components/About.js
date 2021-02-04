@@ -79,7 +79,7 @@ const About = () => {
                                 </div>
                             </div>
                             <div className="html-prog wow prog">
-                                <div className="js-progress wow">90%</div>
+                                <div className="js-progress wow" style={{ width: '90%' }}>90%</div>
                             </div>
                         </div>
                         <div className="skill-html skill">
@@ -89,7 +89,7 @@ const About = () => {
                                 </div>
                             </div>
                             <div className="html-prog wow prog">
-                                <div className="adobe-progress wow">90%</div>
+                                <div className="adobe-progress wow" style={{ width: '90%' }}>90%</div>
                             </div>
                         </div>
                         <div className="skill-html skill">
@@ -99,7 +99,7 @@ const About = () => {
                                 </div>
                             </div>
                             <div className="html-prog wow prog">
-                                <div className="php-progress wow">85%</div>
+                                <div className="php-progress wow" style={{ width: '85%' }}>85%</div>
                             </div>
                         </div>
                         <div className="skill-html skill">
@@ -109,7 +109,7 @@ const About = () => {
                                 </div>
                             </div>
                             <div className="html-prog wow prog">
-                                <div className="jquery-progress wow">75%</div>
+                                <div className="jquery-progress wow" style={{ width: '75%' }}>75%</div>
                             </div>
                         </div>
                         <div className="skill-html skill">
@@ -119,7 +119,7 @@ const About = () => {
                                 </div>
                             </div>
                             <div className="html-prog wow prog">
-                                <div className="jquery-progress wow">75%</div>
+                                <div className="jquery-progress wow" style={{ width: '75%' }}>75%</div>
                             </div>
                         </div>
                         <div className="skill-html skill">
@@ -129,7 +129,7 @@ const About = () => {
                                 </div>
                             </div>
                             <div className="html-prog wow prog">
-                                <div className="jquery-progress wow">75%</div>
+                                <div className="jquery-progress wow" style={{ width: '75%' }}>75%</div>
                             </div>
                         </div>
                         <div className="skill-html skill">
@@ -139,7 +139,7 @@ const About = () => {
                                 </div>
                             </div>
                             <div className="html-prog wow prog">
-                                <div className="jquery-progress wow">75%</div>
+                                <div className="jquery-progress wow" style={{ width: '70%' }}>70%</div>
                             </div>
                         </div>
 
@@ -150,7 +150,7 @@ const About = () => {
                                 </div>
                             </div>
                             <div className="html-prog wow prog">
-                                <div className="jquery-progress wow">20%</div>
+                                <div className="jquery-progress wow" style={{ width: '20%' }}>20%</div>
                             </div>
                         </div>
 
@@ -161,7 +161,7 @@ const About = () => {
                                 </div>
                             </div>
                             <div className="html-prog wow prog">
-                                <div className="jquery-progress wow">60%</div>
+                                <div className="jquery-progress wow" style={{ width: '50%' }}>50%</div>
                             </div>
                         </div>
 
