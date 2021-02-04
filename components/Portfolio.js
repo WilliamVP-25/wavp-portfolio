@@ -66,13 +66,13 @@ const Portfolio = () => {
                         </div>
                     </div>
         
-                    <div className="portfolio portfolio-third">
+                    <div className="portfolio portfolio-second">
                         <div className="portfolio-image">
                             <img src="images/hotel.png" alt="portfolio-third"/>
                         </div>
                         <div className="portfolio-text">
-                            <h2>Learning Management System Laravel</h2>
-                            <p>Página web sencilla hecha con Next.js haciendo uso de Dato CMS para guardar los datos.</p>
+                            <h2>Hotel Gatsby</h2>
+                            <p>Página web sencilla hecha con Gatsby.js haciendo uso de Dato CMS para guardar los datos.</p>
                             <div className="button">
                             <a rel="noopener noreferrer" target="_blank" href="https://landing-hotel-gatsby.netlify.app">
                                     <button><span className="index"> Ver Proyecto
