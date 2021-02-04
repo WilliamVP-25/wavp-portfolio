@@ -105,6 +105,36 @@ const About = () => {
                         <div className="skill-html skill">
                             <div className="skill-text">
                                 <div className="html">
+                                    NodeJs (Express.js)
+                                </div>
+                            </div>
+                            <div className="html-prog wow prog">
+                                <div className="jquery-progress wow">75%</div>
+                            </div>
+                        </div>
+                        <div className="skill-html skill">
+                            <div className="skill-text">
+                                <div className="html">
+                                    MongoDB
+                                </div>
+                            </div>
+                            <div className="html-prog wow prog">
+                                <div className="jquery-progress wow">75%</div>
+                            </div>
+                        </div>
+                        <div className="skill-html skill">
+                            <div className="skill-text">
+                                <div className="html">
+                                    MySql
+                                </div>
+                            </div>
+                            <div className="html-prog wow prog">
+                                <div className="jquery-progress wow">75%</div>
+                            </div>
+                        </div>
+                        <div className="skill-html skill">
+                            <div className="skill-text">
+                                <div className="html">
                                     NodeJs
                                 </div>
                             </div>
@@ -112,6 +142,29 @@ const About = () => {
                                 <div className="jquery-progress wow">75%</div>
                             </div>
                         </div>
+
+<div className="skill-html skill">
+                            <div className="skill-text">
+                                <div className="html">
+                                    Dart (Flutter)
+                                </div>
+                            </div>
+                            <div className="html-prog wow prog">
+                                <div className="jquery-progress wow">20%</div>
+                            </div>
+                        </div>
+
+                        <div className="skill-html skill">
+                            <div className="skill-text">
+                                <div className="html">
+                                    GIT
+                                </div>
+                            </div>
+                            <div className="html-prog wow prog">
+                                <div className="jquery-progress wow">60%</div>
+                            </div>
+                        </div>
+
                     </div>
                 </div>
             </div>
